@@ -1,0 +1,2 @@
+# haskell
+Practicing Haskell programming
